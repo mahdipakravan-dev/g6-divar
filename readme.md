@@ -23,26 +23,13 @@
 │   ├── divar__main.csv                    # مجموعه داده اصلی آگهی‌های دیوار
 │   └── divar__iran_city_classification.csv  # داده‌های کمکی برای طبقه‌بندی شهرهای ایران
 │
-├── notebooks/                             # نوتبوک‌های ژوپیتر برای تحلیل، کاوش و مدل‌سازی
-│   ├── 00_data_preprocessing_and_eda.ipynb  # پیش‌پردازش اولیه داده‌ها و کاوش کلی (مشترک)
-│   ├── 01_descriptive_statistics_hamed.ipynb  # آمار توصیفی (حامد)
-│   ├── 02_hypothesis_testing_mehdi.ipynb      # آزمون فرض (مهدی)
-│   ├── 03_clustering_ali_hamid.ipynb          # کلاسترینگ (علی و حمید)
-│   └── 04_regression_mohammadhossein.ipynb    # پیش‌بینی قیمت/رگرسیون (محمدحسین)
-│
-├── src/                                   # کدهای پایتون (ماژول‌ها و توابع کمکی)
-│   ├── data_loader.py                     # توابع مربوط به بارگذاری و دسترسی به داده‌ها
-│   ├── preprocessing_utils.py             # توابع کمکی برای پیش‌پردازش
-│   ├── visualization_utils.py             # توابع کمکی برای بصری‌سازی
-│   └── modeling_utils.py                  # توابع کمکی برای مدل‌سازی (اختیاری)
-│
-├── reports/                               # گزارش‌ها، ارائه‌ها و نتایج نهایی
-│   ├── figures/                           # پوشه‌ای برای ذخیره نمودارها و تصاویر مهم
-│   │   ├── descriptive_analysis_plots/
-│   │   ├── hypothesis_testing_results/
-│   │   ├── clustering_visualizations/
-│   │   └── regression_performance_plots/
-│   ├── final_report_group6.pdf            # گزارش نهایی پروژه
-│   └── presentation_group6.pptx           # فایل ارائه نهایی
+│00_data_preprocessing_and_eda.ipynb  # پیش‌پردازش اولیه داده‌ها و کاوش کلی (مشترک)
+│01_descriptive_statistics_hamed.ipynb  # آمار توصیفی (حامد)
+│02_hypothesis_testing_mehdi.ipynb      # آزمون فرض (مهدی)
+│03_clustering_ali_hamid.ipynb          # کلاسترینگ (علی و حمید)
+│04_regression_mohammadhossein.ipynb    # پیش‌بینی قیمت/رگرسیون (محمدحسین)
+
+│final_report_group6.pdf            # گزارش نهایی پروژه
+│presentation_group6.pptx           # فایل ارائه نهایی
 ```
 ## لینک : https://drive.google.com/drive/folders/1abrF1ixXKfYC7QJ2tLge0GRX2eRX1Far?usp=sharing
