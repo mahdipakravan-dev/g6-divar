@@ -15,11 +15,11 @@
 
 ```
   AiPractice-g6/
-├── .gitignore                             # فایل‌هایی که توسط گیت نادیده گرفته می‌شوند
-├── Readme.md                              # توضیحات کلی پروژه (همین فایلی که در حال ایجادش هستیم)
-├── requirements.txt                       # لیست کتابخانه‌های پایتون مورد نیاز پروژه
+├── .gitignore
+├── Readme.md
+├── requirements.txt
 │
-├── data/                                  # پوشه داده‌های خام و پردازش شده
+├── data/
 │   ├── divar__main.csv                    # مجموعه داده اصلی آگهی‌های دیوار
 │   └── divar__iran_city_classification.csv  # داده‌های کمکی برای طبقه‌بندی شهرهای ایران
 │
