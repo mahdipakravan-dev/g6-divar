@@ -25,7 +25,7 @@
 │
 │00_data_preprocessing_and_eda.ipynb  # پیش‌پردازش اولیه داده‌ها و کاوش کلی (مشترک)
 │01_descriptive_statistics_hamed.ipynb  # آمار توصیفی (حامد)
-│02_hypothesis_testing_mehdi.ipynb      # آزمون فرض (مهدی)
+│02_hypothesis_testing_mahdi.ipynb      # آزمون فرض (مهدی)
 │03_clustering_ali_hamid.ipynb          # کلاسترینگ (علی و حمید)
 │04_regression_mohammadhossein.ipynb    # پیش‌بینی قیمت/رگرسیون (محمدحسین)
 
