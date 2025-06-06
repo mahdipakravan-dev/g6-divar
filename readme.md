@@ -8,28 +8,7 @@
 
 فازهای اصلی پروژه و مسئولیت هر بخش به شرح زیر است:
 
-* **آمار توصیفی:** حامد
-* **آزمون فرض:** مهدی
-* **کلاسترینگ (خوشه‌بندی):** علی و حمید
-* **پیش‌بینی قیمت (رگرسیون):** محمدحسین
-
-```
-  AiPractice-g6/
-├── .gitignore
-├── Readme.md
-├── requirements.txt
-│
-├── data/
-│   ├── divar__main.csv                    # مجموعه داده اصلی آگهی‌های دیوار
-│   └── divar__iran_city_classification.csv  # داده‌های کمکی برای طبقه‌بندی شهرهای ایران
-│
-│00_data_preprocessing_and_eda.ipynb  # پیش‌پردازش اولیه داده‌ها و کاوش کلی (مشترک)
-│01_descriptive_statistics_hamed.ipynb  # آمار توصیفی (حامد)
-│02_hypothesis_testing_mahdi.ipynb      # آزمون فرض (مهدی)
-│03_clustering_ali_hamid.ipynb          # کلاسترینگ (علی و حمید)
-│04_regression_mohammadhossein.ipynb    # پیش‌بینی قیمت/رگرسیون (محمدحسین)
-
-│final_report_group6.pdf            # گزارش نهایی پروژه
-│presentation_group6.pptx           # فایل ارائه نهایی
-```
-## لینک : https://drive.google.com/drive/folders/1abrF1ixXKfYC7QJ2tLge0GRX2eRX1Far?usp=sharing
+- **آمار توصیفی:** حامد
+- **آزمون فرض:** مهدی
+- **کلاسترینگ (خوشه‌بندی):** علی و حمید
+- **پیش‌بینی قیمت (رگرسیون):** محمدحسین
